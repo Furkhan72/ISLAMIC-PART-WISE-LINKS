@@ -9,7 +9,7 @@ h1{
     text-transform: capitalize;
     font-size: 20px;
     width:1520px;
-    background-color: lightgrey;
+    background-color: lightseagreen;
     text-align: center;
     border: 2px solid rgb(0, 0, 0);
    
@@ -17,7 +17,7 @@ h1{
 
 #box
 {
-    background-color: #ffbf00;
+    background-color: lightgreen;
     text-align:center;
     text-transform: capitalize;
      height :40px;
