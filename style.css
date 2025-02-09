@@ -1,0 +1,62 @@
+h1{
+     background-color:red;
+     color: greenyellow;
+     text-align: center;
+}
+#pos{
+
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 20px;
+    width:1520px;
+    background-color: lightseagreen;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+   
+    }
+
+#box
+{
+    background-color: #ffbf00;
+    text-align:center;
+    text-transform: capitalize;
+     height :40px;
+    width:1500px;
+    font-size: 30px;
+    border: 2px solid black;
+}
+
+#pen
+{
+    background-color: lightseagreen;
+    text-align:center;
+    text-transform: capitalize;
+     height :40px;
+    width:1500px;
+    font-size: 30px;
+    border: 2px solid black;
+    color: white;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin-right: 150px;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 50px;
+    text-align: center;  
+}
+
+nav ul li a
+{
+    color: rgb(15, 12, 211);
+    text-decoration: none;   
+}
+
+body
+{
+    background-color: rgb(65, 230, 15)
+}
